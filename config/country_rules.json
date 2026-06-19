@@ -1,0 +1,12 @@
+{
+  "IN": {"name": "India", "dial_code": "+91", "length": 10},
+  "SG": {"name": "Singapore", "dial_code": "+65", "length": 8},
+  "US": {"name": "United States", "dial_code": "+1", "length": 10},
+  "GB": {"name": "United Kingdom", "dial_code": "+44", "length": 10},
+  "AE": {"name": "United Arab Emirates", "dial_code": "+971", "length": 9},
+  "AU": {"name": "Australia", "dial_code": "+61", "length": 9},
+  "CA": {"name": "Canada", "dial_code": "+1", "length": 10},
+  "DE": {"name": "Germany", "dial_code": "+49", "length": 10},
+  "FR": {"name": "France", "dial_code": "+33", "length": 9},
+  "MY": {"name": "Malaysia", "dial_code": "+60", "length": 9}
+}
